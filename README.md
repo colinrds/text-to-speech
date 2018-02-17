@@ -11,6 +11,10 @@
 
 如果你只需要使用英文，推荐使用[vanspeak](https://github.com/Vanthink-UED/vanspeak)这个插件，兼容不支持发音的浏览器。
 
+参数|描述
+---|---
+separator|可选。指定要使用的分隔符。如果省略该参数，则使用逗号作为分隔符。
+
 ### 开始使用
 
 ``` js
